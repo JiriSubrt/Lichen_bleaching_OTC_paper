@@ -3,6 +3,7 @@ Data and code for the article: Šubrt et al. (submitted to Functional Ecology). 
 
 # Authors
 Jiří Šubrt, Mariana García Criado, Kevin K. Newsham, Claudia Colesie
+
 Contact: Jiří Šubrt, subrt.jirka1@gmail.com
 
 # Data use guidelines
