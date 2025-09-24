@@ -72,7 +72,7 @@ calc_temp_steps <- function(model){
 
 # MODEL SELECTION ----
 # Load in the DR NP GP dataset with calculated max NP and max DR values
-np_gr_dp_raw_long <- read.csv("data/temperature_response/np_dr_gp_raw_long_zkouska.csv")
+np_gr_dp_raw_long <- read.csv("data/temperature_response/np_dr_gp_raw_long.csv")
 
 # np_control model selection ----
 np_control_data <-  np_gr_dp_raw_long %>% 
